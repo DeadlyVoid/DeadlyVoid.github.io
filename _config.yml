@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Void of Infinity
+title: Reality of Infinity
 email: DeadlyVo1d@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will mainly be about cybersecurity and probably a bit of physics/mathematics too. Please note that I do not have an incredibly good education in these subject areas (to be precise, I have none at all), but simply want to try out different things and above all, learn new stuff. The things shown here are for educational purposes ONLY!!!.
