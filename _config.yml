@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog will mainly be about cybersecurity and probably a bit of physics/mathematics too. Please note that I do not have an incredibly good education in these subject areas (to be precise, I have none at all), but simply want to try out different things and above all, learn new stuff. The things shown here are for educational purposes ONLY!!!.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: --
+twitter_username:
 github_username:  DeadlyVoid
 
 # Build settings
